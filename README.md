@@ -2,7 +2,9 @@
 # "Entwicklung eines dynamischen Dungeon Abschnitts mittels Unity" - Development of a dynamic dungeon segment using Unity
 My bachelor thesis from 09/2026 - only available in german, includes written thesis and windows build, no source code. 
 
-[![Bachelor Thesis](./images/thesis-preview.png)](./Bachelor-Thesis.pdf)
+<a href="./Bachelorarbeit.pdf">
+  <img src="./assets/thesis-preview.png" alt="Bachelor Thesis" width="30%">
+</a>
 
 **[Read the full thesis (PDF)](./Bachelor-Thesis.pdf)**
 
