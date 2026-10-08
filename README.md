@@ -8,6 +8,7 @@ My bachelor thesis from 09/2026 - only available in german, includes written the
 
 **[Read the full thesis (PDF)](./Bachelor-Thesis.pdf)**
 
+## Build
 > **System:** Windows x86-64  
 > **Build:** [Download the latest release](../../releases/latest)
 
